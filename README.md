@@ -175,7 +175,7 @@ If you find this codebase useful for your research, please use the following ent
 ```BibTeX
 @article{AnimateX++2025,
   title={Animate-X++: Universal Character Image Animation with Dynamic Backgrounds},
-  author={Tan, Shuai and Gong, Biao and Liu, Zhuoxin and Wang, Yan and Feng, Yifan and Zhao, Hengshuang},
+  author={Tan, Shuai and Gong, Biao and Liu, Zhuoxin and Wang, Yan and Feng, Yifan and Xi, Chen and Zhao, Hengshuang},
   journal={arXiv preprint arXiv:2508.09545},
   year={2025}
 }
