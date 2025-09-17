@@ -170,6 +170,13 @@ This repository is released under the Apache-2.0 license as found in the [LICENS
 ## &#x1F4DA; Citation
 If you find this codebase useful for your research, please use the following entry.
 ```BibTeX
+@article{AnimateX++2025,
+  title={Animate-X++: Universal Character Image Animation with Dynamic Backgrounds},
+  author={Tan, Shuai and Gong, Biao and Liu, Zhuoxin and Wang, Yan and Feng, Yifan and Zhao, Hengshuang},
+  journal={arXiv preprint arXiv:2508.09545},
+  year={2025}
+}
+
 @article{AnimateX2025,
   title={Animate-X: Universal Character Image Animation with Enhanced Motion Representation},
   author={Tan, Shuai and Gong, Biao and Wang, Xiang and Zhang, Shiwei and Zheng, Dandan and Zheng, Ruobing and Zheng, Kecheng and Chen, Jingdong and Yang, Ming},
