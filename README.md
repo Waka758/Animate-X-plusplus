@@ -75,16 +75,7 @@ This repository is the official implementation of paper "Animate-X++: Universal 
 </tr>
 </table>
 
-<table class="center">
-<tr>
-    <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/732a3445-2054-4e7b-9c2d-9db21c39771e" muted="false"></video>
-    </td>
-        <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/f25af02c-e5be-4cab-ae64-c9e0b392643a" muted="false"></video>
-    </td>
-</tr>
-</table>
+
 
 
 
